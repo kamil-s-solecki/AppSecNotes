@@ -1,4 +1,4 @@
-# Scope A
+### Scope A
 
 1. Click around and name functionalities that can be made without auth (write them down with urls)
 2. Create an account
@@ -15,7 +15,7 @@
                      ***
 ```
 
-# Scope B
+### Scope B
 
 1. Take one funcionality (user login, post submission, adding items to the basket etc.)
 2. Click around
