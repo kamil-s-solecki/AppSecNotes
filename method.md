@@ -6,13 +6,14 @@
 4. Prioritize functionalities to test
 
 
+```
                      ***
           ---- TECH RECON HERE ----- 
     1. What tech are used? (write it down)
     2. Is it SPA? MPA? Mixed? (write it down)
           --------------------------
                      ***
-
+```
 
 # Scope B
 
