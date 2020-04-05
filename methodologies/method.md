@@ -1,3 +1,5 @@
+## Compilation of tips and guides from various videos/articles
+
 ### Scope A
 
 1. Click around and name functionalities that can be made without auth (write them down with urls)
