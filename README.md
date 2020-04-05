@@ -1,5 +1,5 @@
 # AppSecNotes
-Notes on AppSec. Tools, Vulnerabilities, Methodologies, tips etc.
+Notes on web app security. Tools, Vulnerabilities, Methodologies, tips etc.
 
 A lot of tools/resources gathered here are and wil be obvious, but the goal is to keep all useful things in one place.
 
