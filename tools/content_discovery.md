@@ -1,5 +1,12 @@
 # Content Discovery
 
+## Subdomains
+### [assetfinder](https://github.com/tomnomnom/assetfinder)
+Subdomain discovery tool written in Go. Checks i.a. crt.sh, certspotter, hackertarget, threatcrowd, **wayback machine**,  dns.bufferover.run, facebook 
+
+### [amass](https://github.com/OWASP/Amass)
+No introduction needed for this guy :)
+
 ## Brute
 ### [gobuster](https://github.com/OJ/gobuster)
 More performant dirbuster alternative.<br>
