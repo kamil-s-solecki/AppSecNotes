@@ -9,5 +9,8 @@ Gobuster is a tool used to brute-force:
 * DNS subdomains (with wildcard support).
 * Virtual Host names on target web servers.
 
+### [https://github.com/maurosoria/dirsearch](https://github.com/maurosoria/dirsearch)
+Web path scanner. Written in python, but multithreaded.
+
 ### [parameth](https://github.com/mak-/parameth)
 This tool can be used to brute discover GET and POST parameters
