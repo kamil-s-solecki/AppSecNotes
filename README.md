@@ -16,3 +16,5 @@ Feel free to contribute :)
     - [Technology identification](tools/technology_identification.md)
     - [Vulnerability detection](tools/vulnerability_detection.md)
     - [Source code analysis/review](tools/code_analysis.md)
+* Methodologies
+    - [Guides](methodologies/guides.md)
