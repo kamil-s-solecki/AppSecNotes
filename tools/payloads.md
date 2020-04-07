@@ -12,3 +12,6 @@ Nice xss polyglot with examples of context in which it can run
 
 ### [jsfuck](http://www.jsfuck.com/)
 Generate arbitrary JS code using only [,] and !
+
+### [codepoints](https://codepoints.net/)
+Find a lot of info about specific unicode symbols, to craft nice payloads (f.e. `.toLowerCase()` on non-ascii symbols that gives ascii symbols)
