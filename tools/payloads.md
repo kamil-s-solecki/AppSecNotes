@@ -18,3 +18,6 @@ Generate arbitrary JS code using only [,] and !
 
 ### [codepoints](https://codepoints.net/)
 Find a lot of info about specific unicode symbols, to craft nice payloads (f.e. `.toLowerCase()` on non-ascii symbols that gives ascii symbols)
+
+### [script gadgets](https://github.com/google/security-research-pocs/tree/master/script-gadgets)
+Don’t trust the DOM: Bypassing XSS mitigations via Script gadgets.
