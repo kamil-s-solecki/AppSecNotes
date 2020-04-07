@@ -10,6 +10,9 @@ Nice xss polyglot with examples of context in which it can run
 []['constructor']['constructor']('alert(1)') // all strings can be replaced with OCT notation: "\143\157...." etc.
 ```
 
+### using [html entities](https://www.w3schools.com/html/html_entities.asp)
+to bypass sanitization
+
 ### [jsfuck](http://www.jsfuck.com/)
 Generate arbitrary JS code using only [,] and !
 
