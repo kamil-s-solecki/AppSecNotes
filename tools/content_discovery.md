@@ -25,3 +25,6 @@ This tool can be used to brute discover GET and POST parameters
 ## Helpers
 ### [httprobe](https://github.com/tomnomnom/httprobe)
 Http probing tool written in go. Can be piped with your favorite subdomain discovery tool to check which domains have running webservers (f.e. `cat subdomain_discovery_results.txt | httprobe`)
+
+### [shodan-filters](https://github.com/JavierOlmedo/shodan-filters)
+Handy list of shodan search filters
