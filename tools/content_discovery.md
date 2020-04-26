@@ -7,6 +7,9 @@ Subdomain discovery tool written in Go. Checks i.a. crt.sh, certspotter, hackert
 ### [amass](https://github.com/OWASP/Amass)
 No introduction needed for this guy :)
 
+### [DNSdumpster](https://dnsdumpster.com/)
+DNSdumpster.com is a FREE domain research tool that can discover hosts related to a domain.
+
 ## Brute
 ### [gobuster](https://github.com/OJ/gobuster)
 More performant dirbuster alternative.<br>
