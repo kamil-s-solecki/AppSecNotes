@@ -10,7 +10,7 @@ Feel free to contribute :)
 ## Index
 
 * Tools
-    - [Content discovery](tools/content_discovery.md)
+    - [Recon](tools/recon.md)
     - [Payloads](tools/payloads.md)
     - [Wordlists](tools/wordlists.md)
     - [Technology identification](tools/technology_identification.md)
