@@ -45,3 +45,7 @@ SpiderFoot is a reconnaissance tool that automatically queries over 100 public d
 
 ### [recon-ng](https://github.com/lanmaster53/recon-ng)
 Open source, full-featured reconnaissance framework designed with the goal of providing a powerful environment to conduct open source web-based reconnaissance quickly and thoroughly.
+
+## Other
+### [FOCA](https://github.com/ElevenPaths/FOCA)
+Tool to find metadata and hidden information in the documents. 
