@@ -42,3 +42,6 @@ Handy list of shodan search filters
 ## Comprehensive
 ### [spiderfoot](https://www.spiderfoot.net)
 SpiderFoot is a reconnaissance tool that automatically queries over 100 public data sources (OSINT) to gather intelligence on IP addresses, domain names, e-mail addresses, names and more.
+
+### [recon-ng](https://github.com/lanmaster53/recon-ng)
+Open source, full-featured reconnaissance framework designed with the goal of providing a powerful environment to conduct open source web-based reconnaissance quickly and thoroughly.
