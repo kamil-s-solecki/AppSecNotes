@@ -38,3 +38,7 @@ Http probing tool written in go. Can be piped with your favorite subdomain disco
 
 ### [shodan-filters](https://github.com/JavierOlmedo/shodan-filters)
 Handy list of shodan search filters
+
+## Comprehensive
+### [spiderfoot](https://www.spiderfoot.net)
+SpiderFoot is a reconnaissance tool that automatically queries over 100 public data sources (OSINT) to gather intelligence on IP addresses, domain names, e-mail addresses, names and more.
