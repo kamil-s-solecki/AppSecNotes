@@ -31,4 +31,4 @@ Latest OWASP Web Application Security Testing Guide
 A collection of awesome penetration testing resources, tools and other shiny things 
 
 ### [awesome osint](https://github.com/jivoi/awesome-osint)
-scream A curated list of amazingly awesome OSINT 
+A curated list of amazingly awesome OSINT 
