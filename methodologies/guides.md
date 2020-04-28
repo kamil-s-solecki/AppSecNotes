@@ -21,3 +21,9 @@ Nice article about how dns works, zone transfers and bruteforcing
 ## Comprehensive
 ### [Latest OWASP WSTG](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/)
 Latest OWASP Web Application Security Testing Guide
+
+### [awesome pentest](https://github.com/enaqx/awesome-pentest)
+A collection of awesome penetration testing resources, tools and other shiny things 
+
+### [awesome osint](https://github.com/jivoi/awesome-osint)
+scream A curated list of amazingly awesome OSINT 
