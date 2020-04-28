@@ -18,6 +18,11 @@ Nice article about js files static analysis
 ### [infosecinstitutes's dns hacking](https://resources.infosecinstitute.com/dns-hacking/)
 Nice article about how dns works, zone transfers and bruteforcing
 
+
+## Deserialization
+### [Friday the 13thJSON Attacks](https://www.blackhat.com/docs/us-17/thursday/us-17-Munoz-Friday-The-13th-JSON-Attacks-wp.pdf)
+See https://www.youtube.com/watch?v=oUAeWhW5b8c
+
 ## Comprehensive
 ### [Latest OWASP WSTG](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/)
 Latest OWASP Web Application Security Testing Guide
