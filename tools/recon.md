@@ -11,7 +11,7 @@ No introduction needed for this guy :)
 DNSdumpster.com is a FREE domain research tool that can discover hosts related to a domain.
 
 ### [dnscan](https://github.com/rbsec/dnscan)
-dnscan is a python wordlist-based DNS subdomain scanner
+dnscan is a python wordlist-based DNS subdomain scanner (also looks for MX and TX records!)
 
 ## Brute
 ### [gobuster](https://github.com/OJ/gobuster)
