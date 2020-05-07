@@ -6,6 +6,9 @@ API to get more info about email/phone number owner
 ### [Scylla](https://github.com/josh0xA/Scylla)
 The Simplistic Information Gathering Engine | Find Advanced Information on a Username, Website, Phone Number, etc. 
 
+## [hunchly](https://www.hunch.ly/)
+The Only Web Capture Tool Designed For Online Investigations. Storage/organizer for your research data.
+
 ## Metadata
 ### [metagoofil](http://www.edge-security.com/metagoofil.php)
 Metagoofil is an information gathering tool designed for extracting metadata of public documents (pdf,doc,xls,ppt,docx,pptx,xlsx) belonging to a target company.
