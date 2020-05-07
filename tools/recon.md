@@ -16,6 +16,9 @@ dnscan is a python wordlist-based DNS subdomain scanner (also looks for MX and T
 ### [subfinder](https://github.com/projectdiscovery/subfinder)
 A passive subdomain discorvery tool.
 
+### [viewdns.info](https://viewdns.info/)
+Online service for reverse dns/whois lookups and more (chineese firewall test? port **scanner** and more :O )
+
 ## Brute
 ### [gau](https://github.com/lc/gau)
 Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
