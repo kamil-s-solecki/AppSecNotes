@@ -11,6 +11,7 @@ Feel free to contribute :)
 
 * Tools
     - [Recon](tools/recon.md)
+    - [Osint](tools/osint.md)
     - [Payloads](tools/payloads.md)
     - [Wordlists](tools/wordlists.md)
     - [Technology identification](tools/technology_identification.md)
