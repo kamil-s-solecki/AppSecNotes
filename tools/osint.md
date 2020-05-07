@@ -10,6 +10,10 @@ Metagoofil is an information gathering tool designed for extracting metadata of 
 ### [fotoforensics](https://fotoforensics.com/)
 Online tool to analyse photos. Metadata, compression, finding if something was photoshoped etc.
 
+## Scraping
+### [dataminer](https://data-miner.io/)
+Handy browser extension to scrape data from websites
+
 ## Misc
 ### [publicwww](https://publicwww.com/)
 Search engine for website's source code
