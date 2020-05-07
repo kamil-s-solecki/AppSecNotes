@@ -29,3 +29,10 @@ Search engine for website's source code
 ### [nerdydata](https://www.nerdydata.com/)
 "Find your competitor's customers
 Find where any technology is used, search millions of sites."
+
+## Knowledge
+### [awesome-osint](https://github.com/jivoi/awesome-osint)
+
+### [osinttechniques twitter](https://twitter.com/osinttechniques)
+
+### [osintframework](https://osintframework.com/)
