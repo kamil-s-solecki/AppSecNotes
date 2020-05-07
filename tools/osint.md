@@ -6,6 +6,10 @@ The Simplistic Information Gathering Engine | Find Advanced Information on a Use
 ### [metagoofil](http://www.edge-security.com/metagoofil.php)
 Metagoofil is an information gathering tool designed for extracting metadata of public documents (pdf,doc,xls,ppt,docx,pptx,xlsx) belonging to a target company.
 
+## Images
+### [fotoforensics](https://fotoforensics.com/)
+Online tool to analyse photos. Metadata, compression, finding if something was photoshoped etc.
+
 ## Misc
 ### [publicwww](https://publicwww.com/)
 Search engine for website's source code
