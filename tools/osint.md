@@ -2,6 +2,10 @@
 ### [Scylla](https://github.com/josh0xA/Scylla)
 The Simplistic Information Gathering Engine | Find Advanced Information on a Username, Website, Phone Number, etc. 
 
+## Metadata
+### [metagoofil](http://www.edge-security.com/metagoofil.php)
+Metagoofil is an information gathering tool designed for extracting metadata of public documents (pdf,doc,xls,ppt,docx,pptx,xlsx) belonging to a target company.
+
 ## Misc
 ### [publicwww](https://publicwww.com/)
 Search engine for website's source code
