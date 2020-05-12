@@ -10,6 +10,9 @@ Checklist of the most important security countermeasures when designing, testing
 ### [Portswigger's xss cheat sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
 No introduction needed for those guys :)
 
+### [XSS Cheatsheet that works in 2020](https://netsec.expert/2020/02/01/xss-in-2020.html)
+Very nice XSS cheatsheet from https://netsec.expert/ blog.
+
 ## Static analysis
 ### [Static Analysis of Client-Side JavaScript for pen testers and bug bounty hunters](https://blog.appsecco.com/static-analysis-of-client-side-javascript-for-pen-testers-and-bug-bounty-hunters-f1cb1a5d5288)
 Nice article about js files static analysis
