@@ -19,6 +19,10 @@ A passive subdomain discorvery tool.
 ### [viewdns.info](https://viewdns.info/)
 Online service for reverse dns/whois lookups and more (chineese firewall test? port **scanner** and more :O )
 
+## Reverse DNS lookup
+### [hackertarget's reverse ip lookup](https://hackertarget.com/reverse-ip-lookup/)
+Pretty good onlie reverse ip lookup.
+
 ## Brute
 ### [gau](https://github.com/lc/gau)
 Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
