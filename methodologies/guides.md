@@ -5,6 +5,10 @@
 ### [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
 Checklist of the most important security countermeasures when designing, testing, and releasing your API.
 
+## WAF bypass
+### [WAF Bypassing with Unicode Compatibility](https://jlajara.gitlab.io/posts/2020/02/19/Bypass_WAF_Unicode.html?fbclid=IwAR1jIoRNLxmDqNq3RRRGVugzzCveN-wJIbQf5nzZMy-etjDhqKlb4DiGZr4)
+WAF Bypassing with Unicode Compatibility techniques.
+
 ## XSS
 
 ### [Portswigger's xss cheat sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
