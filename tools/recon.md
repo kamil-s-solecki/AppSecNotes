@@ -23,6 +23,13 @@ Online service for reverse dns/whois lookups and more (chineese firewall test? p
 ### [hackertarget's reverse ip lookup](https://hackertarget.com/reverse-ip-lookup/)
 Pretty good onlie reverse ip lookup.
 
+## Endpoints
+### [linkfinder](https://github.com/GerbenJavado/LinkFinder)
+Extracts endpoints from javascript files
+
+### [kiterunner](https://github.com/assetnote/kiterunner)
+REST api focused content discovery tool
+
 ## Brute
 ### [gau](https://github.com/lc/gau)
 Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
